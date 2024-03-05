@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323378812920",
+    "project_id": "askidayemek-dbed0",
+    "storage_bucket": "askidayemek-dbed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323378812920:android:f4b8ca5cde1155a1a3a80d",
+        "android_client_info": {
+          "package_name": "com.example.askidayemek2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgZkWY6WPInBL6_x9l-drdjGOvQq2O84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
